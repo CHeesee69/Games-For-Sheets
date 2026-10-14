@@ -8,9 +8,9 @@
 
 ## Features
 
-- **15x15 Grid Arena:** Classic Snake gameplay rendered using spreadsheet cells.
-- **Interactive Controls:** Steering using native checkbox controls for responsive movement.
-- **Leaderboard:** Track high scores and compete with others directly within the sheet.
+- **15x15 Grid:** Classic Snake gameplay rendered using spreadsheet cells.
+- **Interactive Controls:** Steering using native checkbox controls for (near) instant movement.
+- **Leaderboard:** Track high scores
 - **Google Apps Script Powered:** Lightweight JavaScript automation reading and updating spreadsheet cells in near real-time.
 
 ---
