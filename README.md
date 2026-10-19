@@ -1,6 +1,6 @@
 # Snake for Sheets
 
-> A fully playable 15x15 Snake game built directly inside Google Sheets, powered by Google Apps Script.
+> A fully playable game of snake built directly inside Google Sheets, powered by Google Apps Script.
 
 ![Snake Game Gameplay](https://github.com/user-attachments/assets/8a1b08f7-0e63-4de6-bf90-c9207ce3452b)
 
@@ -8,10 +8,12 @@
 
 ## Features
 
-- **15x15 Grid:** Classic Snake gameplay rendered using spreadsheet cells.
+- **15x15 or 10x10 Grid:** Classic Snake gameplay rendered using spreadsheet cells.
 - **Interactive Controls:** Steering using native checkbox controls for (near) instant movement.
 - **Leaderboard:** Track high scores
 - **Google Apps Script Powered:** Lightweight JavaScript automation reading and updating spreadsheet cells in near real-time.
+- **Extra Modes and controls:** Extra settings and controls
+<img width="1093" height="678" alt="image" src="https://github.com/user-attachments/assets/be2df0c8-8e5b-4a38-996f-df056c7df75a" />
 
 ---
 
