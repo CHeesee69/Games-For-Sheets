@@ -1,34 +1,13 @@
-# Snake for Sheets
+# Games For Sheets!
+A few classic games recreated on Google Sheets!
 
-> A fully playable game of snake built directly inside Google Sheets, powered by Google Apps Script.
-
-![Snake Game Gameplay](https://github.com/user-attachments/assets/8a1b08f7-0e63-4de6-bf90-c9207ce3452b)
-
----
+<img width="1852" height="816" alt="image" src="https://github.com/user-attachments/assets/c073ab6f-de96-4605-aa92-ce9d3228313f" />
 
 ## Features
+- 10 x 10 and 15 x 15 Snake
+- Blackjack
+- 10 x 10 Minesweeper
+<img width="1529" height="828" alt="image" src="https://github.com/user-attachments/assets/9bfad8e3-e211-40ba-a6e1-36f727c932be" />
 
-- **15x15 or 10x10 Grid:** Classic Snake gameplay rendered using spreadsheet cells.
-- **Interactive Controls:** Steering using native checkbox controls for (near) instant movement.
-- **Leaderboard:** Track high scores
-- **Google Apps Script Powered:** Lightweight JavaScript automation reading and updating spreadsheet cells in near real-time.
-- **Extra Modes and controls:** Extra settings and controls
-<img width="1093" height="678" alt="image" src="https://github.com/user-attachments/assets/be2df0c8-8e5b-4a38-996f-df056c7df75a" />
+<img width="1278" height="790" alt="image" src="https://github.com/user-attachments/assets/e0b2f7e1-5d7f-4b04-9a2c-3dd7ed589e90" />
 
----
-
-## How to Play
-
-![Snake Controls & Leaderboard](https://github.com/user-attachments/assets/17083162-97b9-4268-a860-9b16db60b375)
-
-1. **Make a Copy:** Open the [Snake for Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/14v2c1DsDYz6Efg_-XwYdSOKMCCL0Xanr9LB-ZKnGtPw/edit?usp=sharing) and go to **File > Make a copy**.
-2. **Start the Game:** Click the **Start** button inside the sheet.
-3. **Control the Snake:** Use the **Left** and **Right** checkboxes to change direction.
-4. **Set High Scores:** Eat food, grow longer, and log your score on the leaderboard.
-
----
-
-## Built With
-
-* **Google Sheets** - UI and grid display
-* **Google Apps Script** - Game logic and state management
