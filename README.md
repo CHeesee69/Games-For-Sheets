@@ -1,8 +1,10 @@
 # Games For Sheets!
 A few classic games recreated on Google Sheets! I might add more games, but the ones currently on there are Snake, Blackjack, Minesweeper, and Sudoku.
+  
 https://docs.google.com/spreadsheets/d/14v2c1DsDYz6Efg_-XwYdSOKMCCL0Xanr9LB-ZKnGtPw/edit?gid=0#gid=0
+ 
 <img width="1852" height="816" alt="image" src="https://github.com/user-attachments/assets/c073ab6f-de96-4605-aa92-ce9d3228313f" />
-
+ 
 ## Features
 - Google Sheets recreations of Minesweeper, Snake, Blackjack, and Sudoku.
 - Made with Google Apps Script (basically JavaScript for Google apps)
