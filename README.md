@@ -17,6 +17,8 @@ A few classic games recreated on Google Sheets! I might add more games, but the 
 
 If you want to try it out for yourself, go to [this sheet](https://docs.google.com/spreadsheets/d/14v2c1DsDYz6Efg_-XwYdSOKMCCL0Xanr9LB-ZKnGtPw/edit?gid=0#gid=0), and make a copy of it by going to __File -> Make a Copy -> Make a Copy__. Then you can select the game you want to play from the bottom and press Start. How to play the different games is realy game specific, so there's a little snippet of text to help you get on the right track to start playing it.
 
+Also, if you are going to use the xlsx, you are going to have to replace all of the cells that say "FALSE" with checkboxes that act as some of the game's controls. You will also have to connect the start buttons to their functions inside the scripts. If you have no idea what that means, just use the method of copying the sheet.
+
 <img width="1438" height="792" alt="image" src="https://github.com/user-attachments/assets/e4772fb2-9fb4-4884-8db6-66d01e06cd40" />
 
 <img width="823" height="450" alt="image" src="https://github.com/user-attachments/assets/8213c57d-5016-466a-b62a-5f42c454bcd9" />
