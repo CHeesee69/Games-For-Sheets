@@ -22,7 +22,7 @@ Also, if you are going to use the [xlsx](https://github.com/CHeesee69/Games-For-
 <img width="1438" height="792" alt="image" src="https://github.com/user-attachments/assets/e4772fb2-9fb4-4884-8db6-66d01e06cd40" />
 
  ### Snake
-<img width="1635" height="733" alt="image" src="https://github.com/user-attachments/assets/cf70b3b8-1a33-497c-8003-bfa11142dbe9" />
+<img width="1598" height="722" alt="image" src="https://github.com/user-attachments/assets/c4eef27f-2c45-41f7-aa2c-beaf1477ea88" />
 
 ### Minesweeper
 <img width="823" height="450" alt="image" src="https://github.com/user-attachments/assets/8213c57d-5016-466a-b62a-5f42c454bcd9" />
@@ -31,5 +31,6 @@ Also, if you are going to use the [xlsx](https://github.com/CHeesee69/Games-For-
 <img width="1140" height="633" alt="Screenshot 2026-10-26 132851" src="https://github.com/user-attachments/assets/40759005-f43c-4f9d-aff7-c3a6939fc64d" />
 
 ### Tetris
-<img width="846" height="604" alt="image" src="https://github.com/user-attachments/assets/8ae8d106-0ef4-4e74-9121-b00a6b391b4f" />
+<img width="1068" height="728" alt="image" src="https://github.com/user-attachments/assets/91b6005e-6e68-4aa5-9522-66ac2e8f2742" />
+
 
